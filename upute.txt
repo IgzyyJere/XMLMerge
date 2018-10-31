@@ -1,0 +1,3 @@
+1. load price url u skriptu priceFix.php
+2. ubaci samo 7.44 tecaj i PDV
+3 parsaj na import iz snimljenog prema kriteriju "listPrice" (contains)
